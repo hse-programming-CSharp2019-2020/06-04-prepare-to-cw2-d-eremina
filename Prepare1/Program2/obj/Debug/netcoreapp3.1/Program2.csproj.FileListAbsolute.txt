@@ -1,0 +1,13 @@
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Program2.deps.json
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Program2.runtimeconfig.json
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Program2.runtimeconfig.dev.json
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Program2.dll
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Program2.pdb
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Library.dll
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.csprojAssemblyReference.cache
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.AssemblyInfoInputs.cache
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.AssemblyInfo.cs
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.csproj.CopyComplete
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.dll
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Program2/obj/Debug/netcoreapp3.1/Program2.pdb

@@ -1,0 +1,16 @@
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.deps.json
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.dll
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.dll
+/Users/dariaeremina/06-04-prepare-to-cw-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.pdb
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.deps.json
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.dll
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.dll
+/Users/dariaeremina/06-04-prepare-to-cw2-d-eremina/Prepare1/Library/obj/Debug/netcoreapp3.1/Library.pdb
